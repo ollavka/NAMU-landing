@@ -68,6 +68,6 @@ We invite you on a fascinating journey through the art of Ukraine. Use our lendi
 ## 🏃 How to get started
 
 If you've familiarised yourself with the basic functionality of our lending site, you're ready to dive into the Ukrainian art world with us!<br />
-Click on the following link to begin your exploration: [National Museum of Art of Ukraine]().
+Click on the following link to begin your exploration: [National Museum of Art of Ukraine](https://ollavka.github.io/NAMU-landing/).<br />
 
 Have a great trip! 🖼️🏛️🎟️
