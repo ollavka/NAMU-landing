@@ -56,7 +56,7 @@ On mobile devices, we use the Swiper.js library to provide you with a convenient
 
 We invite you on a fascinating journey through the art of Ukraine. Use our lending site, explore artworks, book tickets and plunge into the world of culture and art. Don't forget that art can inspire and change the world!
 
-## 🌐 Technologies
+## 💫 Technologies
 
 * HTML
 * SCSS
